@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 
@@ -9,7 +9,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat-Bold', sans-serif;
+  font-family: "Montserrat-Bold", sans-serif;
 }
 
 p {
@@ -26,7 +26,7 @@ p {
 }
 
 .heading {
-  font-family: 'Montserrat-Black', sans-serif;
+  font-family: "Montserrat-Black", sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -45,7 +45,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: 'Montserrat-Light', sans-serif;
+  font-family: "Montserrat-Light", sans-serif;
 }
 
 .navbar-brand {
@@ -100,6 +100,7 @@ p {
 
 .footer-icon {
   margin: 20px 10px;
+  cursor: pointer;
 }
 
 #title .container-fluid {
